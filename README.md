@@ -25,7 +25,7 @@ docker-compose up -d
 Option 2: Jenkins CI/CD with AWS EKS
 Each microservice has its own Jenkinsfile and Kubernetes deployment files.
 
-# Database Access
+## Database Access
 To access the MySQL database in the Docker container:
 
 docker exec -it movie-db mysql -u root -p
