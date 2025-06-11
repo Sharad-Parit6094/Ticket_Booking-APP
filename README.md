@@ -1,5 +1,4 @@
-# Ticket_Booking-APP
-Movie Ticket Booking Microservices Application
+# Movie Ticket Booking Microservices Application
 This is a comprehensive movie ticket booking application built with a microservices architecture. The application allows users to browse movies, select showtimes, book seats, and receive tickets with QR codes. Admins can manage movies, theaters, and pricing through a dedicated admin portal.
 
 ## Architecture Overview
